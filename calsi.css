@@ -1,0 +1,25 @@
+#full{
+    background-color: rgb(132, 225, 18);
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+table{
+    height: 350px;
+    width: 350px;
+    color: aqua;
+}
+
+#total{
+    height: 100%;
+    width: 99%;
+   
+}
+button{
+    height: 100%;
+    width: 99%;
+    overflow: hidden;
+    color: blueviolet;
+}
